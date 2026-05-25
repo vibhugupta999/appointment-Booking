@@ -255,6 +255,7 @@ ZEGOCLOUD_SERVER_SECRET=your_secret
 
 ## 👨‍💻 Author
 
+**Aditya Pratap Singh**
 **Yash Rana**
 🎓 IET Lucknow
 📧 [yashrana2200520100072@gmail.com](mailto:yashrana2200520100072@gmail.com)
