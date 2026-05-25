@@ -258,6 +258,9 @@ ZEGOCLOUD_SERVER_SECRET=your_secret
 **Yash Rana**
 🎓 IET Lucknow
 📧 [yashrana2200520100072@gmail.com](mailto:yashrana2200520100072@gmail.com)
+**Vibhu Gupta**
+🎓 IET Lucknow
+📧 [guptavibhu192003@gmail.com](mailto:guptavibhu192003@gmail.com).
 🔗 LinkedIn: [https://www.linkedin.com/in/yashrana52](https://www.linkedin.com/in/yashrana52)
 💻 GitHub: [https://github.com/YashRana52](https://github.com/YashRana52)
 
