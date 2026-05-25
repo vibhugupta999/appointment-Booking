@@ -260,6 +260,9 @@ ZEGOCLOUD_SERVER_SECRET=your_secret
 🎓 IET Lucknow
 📧 [yashrana2200520100072@gmail.com](mailto:yashrana2200520100072@gmail.com)
 📧 [dhruv.aps1919@gmail.com](mailto:dhruv.aps1919@gmail.com)
+**Vibhu Gupta**
+🎓 IET Lucknow
+📧 [guptavibhu192003@gmail.com](mailto:guptavibhu192003@gmail.com)
 🔗 LinkedIn: [https://www.linkedin.com/in/aditya-singh-93716a298](https://www.linkedin.com/in/aditya-singh-93716a298)
 💻 GitHub: [https://github.com/YashRana52](https://github.com/YashRana52)
 
